@@ -1,0 +1,15 @@
+o: ActiveSupport::Cache::Entry	:@valueI""BEGIN:VEVENT
+DTSTAMP:20240212T022634Z
+UID:844a266e-10b9-4239-a08d-300492b9b409
+DTSTART:20230425T220000Z
+DTEND:20230426T000000Z
+DESCRIPTION:Pauta: Fórum Municipal de Segurança Pública/ Plano Diretor\n
+ \nLeia mais sobre esta reunião https://decidimtreinamento.contagem.mg.gov
+ .br/assemblies/regional-industrial/f/30/meetings/195
+GEO:0.0;0.0
+LOCATION:
+SUMMARY:REUNIÃO DO CONSELHO REGIONAL INDUSTRIAL 25/04
+URL;VALUE=URI:https://decidimtreinamento.contagem.mg.gov.br/assemblies/regi
+ onal-industrial/f/30/meetings/195
+END:VEVENT
+:ET:@version0:@created_atf1707704794.7568514:@expires_in0

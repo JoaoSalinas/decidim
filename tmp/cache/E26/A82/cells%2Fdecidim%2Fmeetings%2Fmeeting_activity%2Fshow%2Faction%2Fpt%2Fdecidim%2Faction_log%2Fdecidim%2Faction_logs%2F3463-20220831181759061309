@@ -1,0 +1,29 @@
+o: ActiveSupport::Cache::Entry	:@valueI"(<div class="activity" data-activity>
+  <div class="activity__time">
+    mais de 1 ano atrás
+  </div>
+  <div class="activity__content">
+    <span>
+      
+        <span>
+          <svg width="1em" height="1em" role="img" aria-hidden="true"><use href="/decidim-packs/media/images/remixicon.symbol-e643e553623ffcd49f94.svg#ri-map-pin-line" tabindex="-1"></use></svg>
+          Nova Reunião:
+        </span>
+      
+      <a href="/assemblies/industrial-pedreirasantarita/f/240/meetings/116">
+        REUNIÃO COMISSÃO PEDREIRA SANTA RITA 
+      </a>
+    </span>
+    
+      <span>
+        <a href="/assemblies/industrial-pedreirasantarita?assembly_slug=industrial-pedreirasantarita">Comissão Pedreira Santa Rita</a>
+      </span>
+    
+  </div>
+  
+    <div class="activity__author">
+      
+    </div>
+  
+</div>
+:ET:@version0:@created_atf1707689412.7163584:@expires_in0

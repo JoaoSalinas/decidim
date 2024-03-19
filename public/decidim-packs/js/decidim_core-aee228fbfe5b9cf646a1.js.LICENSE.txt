@@ -1,0 +1,29 @@
+/*!
+ * jQuery JavaScript Library v3.7.1
+ * https://jquery.com/
+ *
+ * Copyright OpenJS Foundation and other contributors
+ * Released under the MIT license
+ * https://jquery.org/license
+ *
+ * Date: 2023-08-28T13:37Z
+ */
+
+/*! @orchidjs/unicode-variants | https://github.com/orchidjs/unicode-variants | Apache License (v2) */
+
+/*! appendAround markup pattern. [c]2012, @scottjehl, Filament Group, Inc. MIT/GPL 
+how-to:
+	1. Insert potential element containers throughout the DOM
+	2. give each container a data-set attribute with a value that matches all other containers' values
+	3. Place your appendAround content in one of the potential containers
+	4. Call appendAround() on that element when the DOM is ready
+*/
+
+/*! js-cookie v3.0.5 | MIT */
+
+/*! modernizr 3.3.1 (Custom Build) | MIT *
+ * https://modernizr.com/download/?-setclasses !*/
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+
+/*! svg4everybody v2.1.9 | github.com/jonathantneal/svg4everybody */

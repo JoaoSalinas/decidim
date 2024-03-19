@@ -1,0 +1,18 @@
+o: ActiveSupport::Cache::Entry	:@valueI"É<section id="home__menu" class="home__menu">
+  <div class="home__menu__container">
+    
+      <div class="home__menu-element">
+        <a class="button button__text home__menu-element--link" href="/processes">
+          Processos
+        </a>
+      </div>
+    
+      <div class="home__menu-element">
+        <a class="button button__text home__menu-element--link" href="/assemblies">
+          Assembleias
+        </a>
+      </div>
+    
+  </div>
+</section>
+:ET:@version0:@created_atf1706727608.1667747:@expires_in0

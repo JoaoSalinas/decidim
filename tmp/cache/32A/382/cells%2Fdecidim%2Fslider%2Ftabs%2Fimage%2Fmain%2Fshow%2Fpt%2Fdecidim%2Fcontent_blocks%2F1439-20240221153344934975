@@ -1,0 +1,14 @@
+o: ActiveSupport::Cache::Entry	:@valueI"<div class="slides" style="--img: url('/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmNGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--64897f3e0a5ae58bb4635fe59c183c7872e4bd59/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hKeVpYTnBlbVZmZEc5ZlptbDBXd2RwQW9BSGFRS2FBZz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--fe3f09276333c777047a279e76b731839867eee2/ruby-on-rails-development-transformed.jpeg')">       
+  <div class="content">
+    <h2 class="heading4">Titulo</h2>
+    <p>texto</p>
+
+    
+      <a class="button action" target="blank" href="https://www.google.com">call to action</a>
+    
+
+    
+      <a class="action primary" target="blank" href="https://www.google.com/2">segundo call to action</a>
+    
+  </div>
+</div>:ET:@version0:@created_atf1708529628.7519114:@expires_in0

@@ -1,0 +1,476 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/@decidim/webpacker/src/loaders/decidim-sass-loader.js!../.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/decidim-comments-0.28.0/app/packs/stylesheets/comments.scss ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@media (min-width: 768px) {
+.comments__container {
+margin-top: 3rem
+}
+}
+.comments .add-comment {
+margin-top: 3rem
+}
+.comments .add-comment .remaining-character-count {
+display: block;
+text-align: right;
+font-size: 14px;
+line-height: 18px;
+--tw-text-opacity: 1;
+color: rgb(62 76 92 / 1)
+}
+@supports (color: rgb(0 0 0 / 0)) {
+.comments .add-comment .remaining-character-count {
+color: rgb(62 76 92 / var(--tw-text-opacity))
+}
+}
+.comments .add-comment .form__wrapper {
+padding-top: 0px
+}
+.comments .add-comment a {
+font-weight: 600;
+--tw-text-opacity: 1;
+color: rgb(var(--secondary-rgb) / 1);
+color: rgb(var(--secondary-rgb) / var(--tw-text-opacity));
+text-decoration-line: underline
+}
+.comments__header {
+margin-bottom: 1rem;
+display: flex;
+flex-direction: column;
+-moz-column-gap: 0.5rem;
+     column-gap: 0.5rem
+}
+@media (min-width: 768px) {
+.comments__header {
+flex-direction: row;
+align-items: center
+}
+}
+.comments .author__avatar-container {
+height: 2rem;
+width: 2rem
+}
+.comments .tribute-container {
+position: relative;
+width: 100%
+}
+.comments .tribute-container #results {
+position: absolute;
+top: 100%;
+left: 0px;
+right: 0px;
+z-index: 50;
+margin-top: 0.5rem;
+margin-bottom: 0.5rem;
+max-height: 225px;
+overflow-y: scroll;
+border-radius: 0.25rem;
+--tw-bg-opacity: 1;
+background-color: rgb(255 255 255 / 1);
+padding: 0px;
+  border: 1px solid rgba(33, 33, 33, 0.1)
+}
+@supports (color: rgb(0 0 0 / 0)) {
+.comments .tribute-container #results {
+background-color: rgb(255 255 255 / var(--tw-bg-opacity))
+}
+}
+.comments .tribute-container #results li {
+display: flex;
+cursor: pointer;
+align-items: center;
+gap: 0.5rem;
+padding-left: 1rem;
+padding-right: 1rem;
+padding-top: 0.5rem;
+padding-bottom: 0.5rem
+}
+.comments .tribute-container #results li:hover {
+cursor: pointer;
+  background-color: rgba(123, 123, 123, 0.1)
+}
+.comments .tribute-container #results img {
+height: 1.5rem;
+width: 1.5rem;
+border-radius: 9999px;
+-o-object-fit: cover;
+   object-fit: cover
+}
+.comments .tribute-container #results span,
+.comments .tribute-container #results strong {
+font-size: 14px;
+line-height: 18px;
+font-weight: 600;
+--tw-text-opacity: 1;
+color: rgb(var(--secondary-rgb) / 1);
+color: rgb(var(--secondary-rgb) / var(--tw-text-opacity))
+}
+.comments .tribute-container #results small {
+font-size: 13px;
+line-height: 16px;
+font-weight: 400;
+--tw-text-opacity: 1;
+color: rgb(62 76 92 / 1)
+}
+@supports (color: rgb(0 0 0 / 0)) {
+.comments .tribute-container #results small {
+color: rgb(62 76 92 / var(--tw-text-opacity))
+}
+}
+.comments .tribute-container #results svg {
+height: 1rem;
+width: 1rem;
+fill: currentColor;
+--tw-text-opacity: 1;
+color: rgb(var(--primary-rgb) / 1);
+color: rgb(var(--primary-rgb) / var(--tw-text-opacity))
+}
+.comments .tribute-container #results .is-group {
+margin-left: auto;
+display: flex;
+align-items: center;
+gap: 0.25rem
+}
+.comment {
+border-radius: 0.5rem;
+border-width: 2px;
+--tw-border-opacity: 1;
+border-color: rgb(243 244 247 / 1);
+padding: 0.75rem;
+padding-left: 1.5rem
+  /* overwrite default dropdown styles */
+  /* overwrite default dropdown styles */
+}
+@supports (color: rgb(0 0 0 / 0)) {
+.comment {
+border-color: rgb(243 244 247 / var(--tw-border-opacity))
+}
+}
+.comment__header {
+position: relative;
+margin-bottom: 0.5rem;
+margin-left: -2.5rem;
+display: flex;
+align-items: center;
+-moz-column-gap: 0.5rem;
+     column-gap: 0.5rem
+}
+.comment__header a[href^="/profile"] > span:first-child {
+z-index: 10
+}
+.comment__header--edited {
+font-size: 14px;
+line-height: 18px;
+font-weight: 600
+}
+.comment [data-target*=dropdown] {
+width: auto;
+cursor: pointer;
+font-size: 14px;
+line-height: 18px;
+--tw-text-opacity: 1;
+color: rgb(var(--secondary-rgb) / 1);
+color: rgb(var(--secondary-rgb) / var(--tw-text-opacity))
+}
+@media (min-width: 768px) {
+.comment [data-target*=dropdown] {
+display: flex
+}
+.comment [id*=dropdown-menu][aria-hidden=true] {
+display: none
+}
+}
+.comment__footer-grid {
+margin-top: 1rem;
+display: grid;
+grid-template-columns: repeat(2, minmax(0, 1fr));
+align-items: center
+}
+.comment-reply {
+position: relative;
+margin-left: 0.75rem;
+border-radius: 0.5rem;
+border-width: 2px;
+--tw-border-opacity: 1;
+border-color: rgb(243 244 247 / 1)
+}
+@supports (color: rgb(0 0 0 / 0)) {
+.comment-reply {
+border-color: rgb(243 244 247 / var(--tw-border-opacity))
+}
+}
+.comment-reply:empty {
+display: none
+}
+.comment-reply::after {
+position: absolute;
+top: 2rem;
+z-index: -10;
+display: inline-block;
+height: 80%;
+width: 1px;
+--tw-bg-opacity: 1;
+background-color: rgb(239 239 239 / 1);
+  content: ""
+}
+@supports (color: rgb(0 0 0 / 0)) {
+.comment-reply::after {
+background-color: rgb(239 239 239 / var(--tw-bg-opacity))
+}
+}
+.comment-reply .comment, .comment .comment-reply {
+margin-top: 1rem;
+border-width: 0px;
+padding-right: 0px
+}
+.comment-thread {
+margin-bottom: 2rem
+}
+.comment-thread .button[aria-expanded=false] svg:first-of-type {
+display: block
+}
+.comment-thread .button[aria-expanded=false] svg:last-of-type {
+display: none
+}
+.comment-thread .button[aria-expanded=true] svg:first-of-type {
+display: none
+}
+.comment-thread .button[aria-expanded=true] svg:last-of-type {
+display: block
+}
+.comment__as {
+margin-top: 1rem;
+margin-bottom: 1rem
+}
+.comment .add-comment {
+width: 100%
+}
+.comment .comment__votes {
+justify-self: end
+  /* override button default styles */
+}
+.comment .comment__votes .comment__votes--up {
+margin-right: 0.5rem
+}
+.comment .comment__votes .button_to:first-child svg:first-child,
+.comment .comment__votes button:first-child svg:first-child,
+.comment .comment__votes button:nth-child(2) svg:first-child,
+.comment .comment__votes .button_to:nth-child(2) svg:first-child {
+display: block
+}
+.comment .comment__votes .button_to:first-child svg:nth-child(2),
+.comment .comment__votes button:first-child svg:nth-child(2),
+.comment .comment__votes button:nth-child(2) svg:nth-child(2),
+.comment .comment__votes .button_to:nth-child(2) svg:nth-child(2) {
+display: none
+}
+.comment .comment__votes .button_to:first-child .is-vote-selected svg:first-child,
+.comment .comment__votes button:first-child .is-vote-selected svg:first-child,
+.comment .comment__votes button:nth-child(2) .is-vote-selected svg:first-child,
+.comment .comment__votes .button_to:nth-child(2) .is-vote-selected svg:first-child {
+display: none
+}
+.comment .comment__votes .button_to:first-child .is-vote-selected svg:nth-child(2),
+.comment .comment__votes button:first-child .is-vote-selected svg:nth-child(2),
+.comment .comment__votes button:nth-child(2) .is-vote-selected svg:nth-child(2),
+.comment .comment__votes .button_to:nth-child(2) .is-vote-selected svg:nth-child(2) {
+display: block
+}
+.comment .comment__votes .button_to:first-child .is-vote-notselected svg:first-child,
+.comment .comment__votes button:first-child .is-vote-notselected svg:first-child,
+.comment .comment__votes button:nth-child(2) .is-vote-notselected svg:first-child,
+.comment .comment__votes .button_to:nth-child(2) .is-vote-notselected svg:first-child {
+display: block
+}
+.comment .comment__votes .button_to:first-child .is-vote-notselected svg:nth-child(2),
+.comment .comment__votes button:first-child .is-vote-notselected svg:nth-child(2),
+.comment .comment__votes button:nth-child(2) .is-vote-notselected svg:nth-child(2),
+.comment .comment__votes .button_to:nth-child(2) .is-vote-notselected svg:nth-child(2) {
+display: none
+}
+.comment .comment__votes .button_to:nth-child(2) svg:first-child {
+display: block
+}
+.comment .comment__votes .button_to:nth-child(2) svg:nth-child(2) {
+display: none
+}
+.comment .comment__votes .button_to:nth-child(2) .is-vote-selected svg:first-child {
+display: none
+}
+.comment .comment__votes .button_to:nth-child(2) .is-vote-selected svg:nth-child(2) {
+display: block
+}
+.comment .comment__votes .button_to:nth-child(2) .is-vote-notselected svg:first-child {
+display: block
+}
+.comment .comment__votes .button_to:nth-child(2) .is-vote-notselected svg:nth-child(2) {
+display: none
+}
+.comment .comment__votes .comment__votes--count {
+font-size: 14px;
+line-height: 18px;
+--tw-text-opacity: 1;
+color: rgb(62 76 92 / 1)
+}
+@supports (color: rgb(0 0 0 / 0)) {
+.comment .comment__votes .comment__votes--count {
+color: rgb(62 76 92 / var(--tw-text-opacity))
+}
+}
+.comment .comment__votes .button_to {
+display: inline-block
+}
+.comment .comment__votes .button[disabled] {
+border-width: 0px;
+background-color: transparent
+}
+.comment-order-by {
+margin-left: auto;
+margin-top: 1rem;
+display: grid;
+grid-template-columns: repeat(4, minmax(0, 1fr));
+place-items: center
+}
+@media (min-width: 768px) {
+.comment-order-by {
+margin-top: 0px
+}
+}
+.comment__actions {
+display: flex;
+align-items: center;
+gap: 1rem
+}
+.comment__actions .button[aria-expanded=false] svg:first-of-type {
+display: block
+}
+.comment__actions .button[aria-expanded=false] svg:last-of-type {
+display: none
+}
+.comment__actions .button[aria-expanded=false] span:first-of-type {
+display: block
+}
+.comment__actions .button[aria-expanded=false] span:last-of-type {
+display: none
+}
+.comment__actions .button[aria-expanded=true] svg:first-of-type {
+display: none
+}
+.comment__actions .button[aria-expanded=true] svg:last-of-type {
+display: block
+}
+.comment__actions .button[aria-expanded=true] span:first-of-type {
+display: none
+}
+.comment__actions .button[aria-expanded=true] span:last-of-type {
+display: block
+}
+.comment__content--label {
+margin-bottom: 0.5rem;
+display: inline-block
+}
+.comment__form-label {
+font-size: 18px;
+line-height: 23px;
+font-weight: 600;
+--tw-text-opacity: 1;
+color: rgb(62 76 92 / 1)
+}
+@supports (color: rgb(0 0 0 / 0)) {
+.comment__form-label {
+color: rgb(62 76 92 / var(--tw-text-opacity))
+}
+}
+.comment__form-submit {
+margin-top: 1rem;
+display: flex;
+flex-direction: column;
+align-items: stretch;
+justify-content: space-between;
+gap: 1rem
+}
+@media (min-width: 768px) {
+.comment__form-submit {
+flex-direction: row;
+align-items: flex-end
+}
+}
+.comment__opinion-container {
+margin-top: 0.5rem;
+display: flex;
+width: 100%
+}
+@media (min-width: 768px) {
+.comment__opinion-container {
+width: -moz-fit-content;
+width: fit-content
+}
+}
+.comment__opinion-container button {
+margin-left: -1px;
+display: inline-flex;
+flex-grow: 1;
+align-items: center;
+justify-content: center;
+gap: 0.25rem;
+border-width: 1px;
+border-color: #6B7280CC;
+padding-left: 1rem;
+padding-right: 1rem;
+padding-top: 0.375rem;
+padding-bottom: 0.375rem;
+font-size: 14px;
+line-height: 18px;
+--tw-text-opacity: 1;
+color: rgb(62 76 92 / 1);
+transition-property: all;
+transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+transition-duration: 150ms
+}
+@supports (color: rgb(0 0 0 / 0)) {
+.comment__opinion-container button {
+color: rgb(62 76 92 / var(--tw-text-opacity))
+}
+}
+.comment__opinion-container button:first-child {
+margin-left: 0px
+}
+.comment__opinion-container button:first-of-type {
+border-top-left-radius: 0.25rem;
+border-bottom-left-radius: 0.25rem
+}
+.comment__opinion-container button:last-of-type {
+border-top-right-radius: 0.25rem;
+border-bottom-right-radius: 0.25rem
+}
+.comment__opinion-container button svg {
+fill: currentColor
+}
+.comment__opinion-container button:hover, .comment__opinion-container button.is-active {
+--tw-border-opacity: 1;
+border-color: rgb(var(--secondary-rgb) / 1);
+border-color: rgb(var(--secondary-rgb) / var(--tw-border-opacity));
+background-color: #E4EEFF99;
+--tw-text-opacity: 1;
+color: rgb(var(--secondary-rgb) / 1);
+color: rgb(var(--secondary-rgb) / var(--tw-text-opacity))
+}
+.comment__opinion-label {
+font-size: 14px;
+line-height: 18px;
+--tw-text-opacity: 1;
+color: rgb(62 76 92 / 1)
+}
+@supports (color: rgb(0 0 0 / 0)) {
+.comment__opinion-label {
+color: rgb(62 76 92 / var(--tw-text-opacity))
+}
+}
+.comment__deleted, .comment__moderated {
+color: #6B7280CC
+}
+.comment .comment__content > * {
+font-size: 16px;
+line-height: 20px
+}
+
+/*# sourceMappingURL=decidim_comments.css.map*/

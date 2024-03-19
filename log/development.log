@@ -1,0 +1,1062 @@
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell, and Decidim::Dev::NeedsDevelopmentTools.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell, and Decidim::Dev::NeedsDevelopmentTools.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell, and Decidim::Dev::NeedsDevelopmentTools.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell, and Decidim::Dev::NeedsDevelopmentTools.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+  [1m[36mDecidim::User Load (29.9ms)[0m  [1m[34mSELECT "decidim_users".* FROM "decidim_users" WHERE "decidim_users"."type" = $1[0m  [["type", "Decidim::User"]]
+  [1m[36mDecidim::User Load (2.6ms)[0m  [1m[34mSELECT "decidim_users".* FROM "decidim_users" WHERE "decidim_users"."type" = $1 AND "decidim_users"."email" = $2 LIMIT $3[0m  [["type", "Decidim::User"], ["email", "joao.salinas"], ["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mDecidim::System::Admin Exists? (0.6ms)[0m  [1m[34mSELECT 1 AS one FROM "decidim_system_admins" WHERE "decidim_system_admins"."email" = $1 LIMIT $2[0m  [["email", "joao.salinas@outlook.com"], ["LIMIT", 1]]
+  [1m[36mDecidim::System::Admin Exists? (0.2ms)[0m  [1m[34mSELECT 1 AS one FROM "decidim_system_admins" WHERE "decidim_system_admins"."email" = $1 LIMIT $2[0m  [["email", "joao.salinas@outlook.com"], ["LIMIT", 1]]
+  [1m[36mDecidim::System::Admin Create (11.4ms)[0m  [1m[32mINSERT INTO "decidim_system_admins" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "joao.salinas@outlook.com"], ["encrypted_password", "$2a$11$EmpUtQRGjs2LeIDiWYz8Deq1BWALR6SDGJEPXT63ZZjYlanV3Tcx6"], ["created_at", "2024-02-02 20:37:08.038088"], ["updated_at", "2024-02-02 20:37:08.038088"]]
+  [1m[36mTRANSACTION (1.3ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mDecidim::System::Admin Load (0.5ms)[0m  [1m[34mSELECT "decidim_system_admins".* FROM "decidim_system_admins"[0m
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+  [1m[35m (9.4ms)[0m  [1m[34mSELECT pg_try_advisory_lock(3695457495228037980)[0m
+  [1m[35m (24.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to DeviseCreateDecidimUsers (20240123163936)
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (248.4ms)[0m  [1m[35mCREATE TABLE "decidim_users" ("id" serial NOT NULL PRIMARY KEY, "email" character varying DEFAULT '' NOT NULL, "encrypted_password" character varying DEFAULT '' NOT NULL, "reset_password_token" character varying, "reset_password_sent_at" timestamp, "remember_created_at" timestamp, "sign_in_count" integer DEFAULT 0 NOT NULL, "current_sign_in_at" timestamp, "last_sign_in_at" timestamp, "current_sign_in_ip" character varying, "last_sign_in_ip" character varying, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT pg_advisory_unlock(3695457495228037980)[0m
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_try_advisory_lock(3695457495228037980)[0m
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to DeviseCreateDecidimUsers (20240123163936)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (2.8ms)[0m  [1m[35mCREATE TABLE "decidim_users" ("id" serial NOT NULL PRIMARY KEY, "email" character varying DEFAULT '' NOT NULL, "encrypted_password" character varying DEFAULT '' NOT NULL, "reset_password_token" character varying, "reset_password_sent_at" timestamp, "remember_created_at" timestamp, "sign_in_count" integer DEFAULT 0 NOT NULL, "current_sign_in_at" timestamp, "last_sign_in_at" timestamp, "current_sign_in_ip" character varying, "last_sign_in_ip" character varying, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_advisory_unlock(3695457495228037980)[0m
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_try_advisory_lock(3695457495228037980)[0m
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to DeviseCreateDecidimUsers (20240123163936)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (16.6ms)[0m  [1m[35mCREATE TABLE "decidim_users" ("id" serial NOT NULL PRIMARY KEY, "email" character varying DEFAULT '' NOT NULL, "encrypted_password" character varying DEFAULT '' NOT NULL, "reset_password_token" character varying, "reset_password_sent_at" timestamp, "remember_created_at" timestamp, "sign_in_count" integer DEFAULT 0 NOT NULL, "current_sign_in_at" timestamp, "last_sign_in_at" timestamp, "current_sign_in_ip" character varying, "last_sign_in_ip" character varying, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT pg_advisory_unlock(3695457495228037980)[0m
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+  [1m[35m (1.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_try_advisory_lock(3695457495228037980)[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to DeviseCreateDecidimUsers (20240123163936)
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (3.0ms)[0m  [1m[35mCREATE TABLE "decidim_users" ("id" serial NOT NULL PRIMARY KEY, "email" character varying DEFAULT '' NOT NULL, "encrypted_password" character varying DEFAULT '' NOT NULL, "reset_password_token" character varying, "reset_password_sent_at" timestamp, "remember_created_at" timestamp, "sign_in_count" integer DEFAULT 0 NOT NULL, "current_sign_in_at" timestamp, "last_sign_in_at" timestamp, "current_sign_in_ip" character varying, "last_sign_in_ip" character varying, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_advisory_unlock(3695457495228037980)[0m
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_try_advisory_lock(3695457495228037980)[0m
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateDecidimCalendarExternalEvents (20240219194516)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (133.7ms)[0m  [1m[35mCREATE TABLE "decidim_calendar_external_events" ("id" bigserial primary key, "title" jsonb NOT NULL, "start_at" timestamp NOT NULL, "end_at" timestamp NOT NULL, "url" character varying, "decidim_author_id" integer NOT NULL, "decidim_author_type" character varying, "decidim_organization_id" integer NOT NULL)[0m
+  [1m[35m (17.9ms)[0m  [1m[35mCREATE INDEX "decidim_calendar_external_event_author" ON "decidim_calendar_external_events" ("decidim_author_id")[0m
+  [1m[35m (7.5ms)[0m  [1m[35mCREATE INDEX "decidim_calendar_external_event_organization" ON "decidim_calendar_external_events" ("decidim_organization_id")[0m
+  [1m[36mActiveRecord::SchemaMigration Create (2.9ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20240219194516"]]
+  [1m[36mTRANSACTION (4.3ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mActiveRecord::InternalMetadata Load (18.8ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mActiveRecord::InternalMetadata Update (0.3ms)[0m  [1m[33mUPDATE "ar_internal_metadata" SET "value" = $1, "updated_at" = $2 WHERE "ar_internal_metadata"."key" = $3[0m  [["value", "development"], ["updated_at", "2024-02-19 23:01:11.535328"], ["key", "environment"]]
+  [1m[36mTRANSACTION (1.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT pg_advisory_unlock(3695457495228037980)[0m
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base_pleno/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base_pleno/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base_pleno/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base_pleno/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base_pleno/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base_pleno/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base_pleno/config/environment.rb:5)
+DEPRECATION WARNING: Initialization autoloaded the constants Decidim::DecidimFormHelper, Decidim::ScopesHelper, Decidim::ReplaceButtonsHelper, Decidim::MarkupHelper, Decidim::ModalHelper, Decidim::TooltipHelper, Decidim::LayoutHelper, Decidim::ContentBlocks::BaseCell, and Decidim::ContentBlocks::ParticipatorySpaceLastActivityCell.
+
+Being able to do this is deprecated. Autoloading during initialization is going
+to be an error condition in future versions of Rails.
+
+Reloading does not reboot the application, and therefore code executed during
+initialization does not run again. So, if you reload Decidim::DecidimFormHelper, for example,
+the expected changes won't be reflected in that stale Module object.
+
+These autoloaded constants have been unloaded.
+
+In order to autoload safely at boot time, please wrap your code in a reloader
+callback this way:
+
+    Rails.application.reloader.to_prepare do
+      # Autoload classes and modules needed at boot time here.
+    end
+
+That block runs when the application boots, and every time there is a reload.
+For historical reasons, it may run twice, so it has to be idempotent.
+
+Check the "Autoloading and Reloading Constants" guide to learn more about how
+Rails autoloads and reloads.
+ (called from <main> at /home/contagem/decidim_base_pleno/config/environment.rb:5)

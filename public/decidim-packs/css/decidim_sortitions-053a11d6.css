@@ -1,0 +1,143 @@
+.sortition__aside-element-item {
+
+border-bottom-width: 1px;
+
+--tw-border-opacity: 1;
+
+border-color: rgb(225 229 239 / 1);
+
+padding-top: 1rem;
+
+padding-bottom: 1rem
+}
+
+@supports (color: rgb(0 0 0 / 0)) {
+.sortition__aside-element-item {
+
+border-color: rgb(225 229 239 / var(--tw-border-opacity))
+}
+}
+
+.sortition__aside-element-item:first-child {
+
+padding-top: 0px
+}
+
+.sortition__aside-element-item:last-child {
+
+border-bottom-width: 0px;
+
+padding-bottom: 0px
+}
+.sortition__aside-element-item__title {
+
+margin-bottom: 0.25rem;
+
+display: block;
+
+font-size: 14px;
+
+line-height: 18px;
+
+--tw-text-opacity: 1;
+
+color: rgb(62 76 92 / 1)
+}
+@supports (color: rgb(0 0 0 / 0)) {
+.sortition__aside-element-item__title {
+
+color: rgb(62 76 92 / var(--tw-text-opacity))
+}
+}
+.sortition__aside-element-item__text {
+
+display: block;
+
+font-size: 16px;
+
+line-height: 20px;
+
+font-weight: 600;
+
+--tw-text-opacity: 1;
+
+color: rgb(62 76 92 / 1)
+}
+@supports (color: rgb(0 0 0 / 0)) {
+.sortition__aside-element-item__text {
+
+color: rgb(62 76 92 / var(--tw-text-opacity))
+}
+}
+.sortition__aside-element-item__numbers {
+
+display: block;
+
+font-size: 16px;
+
+line-height: 20px;
+
+--tw-text-opacity: 1;
+
+color: rgb(62 76 92 / 1)
+}
+@supports (color: rgb(0 0 0 / 0)) {
+.sortition__aside-element-item__numbers {
+
+color: rgb(62 76 92 / var(--tw-text-opacity))
+}
+}
+.sortition__aside__count-number {
+
+display: block;
+
+text-align: center;
+
+font-size: 48px;
+
+line-height: 60px;
+
+font-weight: 700;
+
+--tw-text-opacity: 1;
+
+color: rgb(62 76 92 / 1)
+}
+@supports (color: rgb(0 0 0 / 0)) {
+.sortition__aside__count-number {
+
+color: rgb(62 76 92 / var(--tw-text-opacity))
+}
+}
+.sortition__aside__count-text {
+
+display: block;
+
+text-align: center;
+
+font-size: 14px;
+
+line-height: 18px;
+
+--tw-text-opacity: 1;
+
+color: rgb(62 76 92 / 1)
+}
+@supports (color: rgb(0 0 0 / 0)) {
+.sortition__aside__count-text {
+
+color: rgb(62 76 92 / var(--tw-text-opacity))
+}
+}
+a.sortition__aside-element-item__title {
+
+--tw-text-opacity: 1;
+
+color: rgb(var(--secondary-rgb) / 1);
+
+color: rgb(var(--secondary-rgb) / var(--tw-text-opacity));
+
+text-decoration-line: underline
+}
+
+/*# sourceMappingURL=decidim_sortitions-053a11d6.css.map*/

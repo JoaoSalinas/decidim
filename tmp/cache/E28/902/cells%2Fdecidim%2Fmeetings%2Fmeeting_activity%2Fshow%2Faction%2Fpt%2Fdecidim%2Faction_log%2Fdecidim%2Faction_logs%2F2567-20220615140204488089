@@ -1,0 +1,29 @@
+o: ActiveSupport::Cache::Entry	:@valueI"�<div class="activity" data-activity>
+  <div class="activity__time">
+    mais de 1 ano atrás
+  </div>
+  <div class="activity__content">
+    <span>
+      
+        <span>
+          <svg width="1em" height="1em" role="img" aria-hidden="true"><use href="/decidim-packs/media/images/remixicon.symbol-e643e553623ffcd49f94.svg#ri-map-pin-line" tabindex="-1"></use></svg>
+          Nova Reunião:
+        </span>
+      
+      <a href="/assemblies/regional-nacional/f/183/meetings/50">
+        Reunião do Conselho Regional Nacional 24/06
+      </a>
+    </span>
+    
+      <span>
+        <a href="/assemblies/regional-nacional?assembly_slug=regional-nacional">Regional Nacional</a>
+      </span>
+    
+  </div>
+  
+    <div class="activity__author">
+      
+    </div>
+  
+</div>
+:ET:@version0:@created_atf1707617400.4128182:@expires_in0

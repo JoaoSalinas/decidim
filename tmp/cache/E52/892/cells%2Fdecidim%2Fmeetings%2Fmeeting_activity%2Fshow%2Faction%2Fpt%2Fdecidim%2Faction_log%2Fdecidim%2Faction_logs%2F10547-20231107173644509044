@@ -1,0 +1,29 @@
+o: ActiveSupport::Cache::Entry	:@valueI"w<div class="activity" data-activity>
+  <div class="activity__time">
+    3 meses ago
+  </div>
+  <div class="activity__content">
+    <span>
+      
+        <span>
+          <svg width="1em" height="1em" role="img" aria-hidden="true"><use href="/decidim-packs/media/images/remixicon.symbol-e643e553623ffcd49f94.svg#ri-map-pin-line" tabindex="-1"></use></svg>
+          New meeting:
+        </span>
+      
+      <a href="/assemblies/conselho-confundeb/f/773/meetings/234">
+        Reunião Ordinária 
+      </a>
+    </span>
+    
+      <span>
+        <a href="/assemblies/conselho-confundeb?assembly_slug=conselho-confundeb">CONFUNDEB - Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais</a>
+      </span>
+    
+  </div>
+  
+    <div class="activity__author">
+      
+    </div>
+  
+</div>
+:ET:@version0:@created_atf1706029498.535964:@expires_in0
