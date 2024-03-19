@@ -1,0 +1,64 @@
+---
+pt:
+  decidim:
+    admin:
+      slider:
+        slider:
+          active_blocks_title: Blocos ativos
+          add: Adicionar abas
+          destroy_confirmation: Tem certeza que deseja deletar esta aba?
+          inactive_blocks_title: Blocos inativos
+          title: Painel de conteúdos
+        tabs:
+          create_error: Houve um erro ao criar a aba
+          destroy_error: Houve um erro ao deletar a aba
+          destroy_message: A aba foi deletada com sucesso
+          save: Salvar
+          success_message: A aba foi criada com sucesso
+    content_blocks:
+      slider:
+        admin_menu: Homepage Slider
+        name: Slider
+        tabs:
+          image: Imagem
+          video_text: Video e Texto
+    slider:
+      homepage:
+        main:
+          current_slide: Slide Atual
+          next_slide: Próximo Slide
+          previous_slide: Slide Anterior
+          slide_details: Detalhes do Slide
+        settings:
+          autoplay: Autoplay
+          upload_size: Configurações de Upload (MB)
+      tabs:
+        image:
+          settings:
+            accessibility_label: Label de acessibilidade (alt)
+            content: Texto
+            cta: Chamada para ação
+            image: Imagem
+            secondary_cta: Chamada para ação secundária
+            secondary_url: URL da chamada para ação secundária
+            title: Titulo
+            url: URL
+        video_text:
+          main:
+            no_video_support: Seu navegador não oferece suporte para a tag vídeo.
+          settings:
+            accessibility_label: Label de acessibilidade
+            autoplay: Autoplay
+            content: Conteúdo
+            controls: Mostrar controles
+            cta: Chamada para ação
+            loop: Loop
+            muted: Mudo
+            playsinline: Executar videos em sequência
+            secondary_cta: Chamada para ação secundária
+            secondary_url: URL da chamada para ação secundária
+            skip_when_finished: Pular próximo slide quando o vídeo estiver finalizado
+            title: Titulo
+            url: URL
+            video: Video
+            video_options: Opções do Video

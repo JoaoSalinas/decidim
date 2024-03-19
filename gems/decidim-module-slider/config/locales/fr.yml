@@ -1,0 +1,64 @@
+---
+fr:
+  decidim:
+    admin:
+      slider:
+        slider:
+          active_blocks_title: Blocs actifs
+          add: Ajouter un onglet
+          destroy_confirmation: Êtes-vous sûr de vouloir supprimer cet onglet ?
+          inactive_blocks_title: Blocs actifs
+          title: Le titre des onglets
+        tabs:
+          create_error: Une erreur s'est produite lors de la création de l'onglet
+          destroy_error: Une erreur est survenue lors de la suppression de l'onglet
+          destroy_message: L'onglet a été supprimé avec succès
+          save: Sauvegarder
+          success_message: L'onglet a été créé avec succès
+    content_blocks:
+      slider:
+        admin_menu: Carousel de page d'accueil
+        name: Carousel
+        tabs:
+          image: Image
+          video_text: Vidéo et texte
+    slider:
+      homepage:
+        main:
+          current_slide: Diapositive actuelle
+          next_slide: Diapositive suivante
+          previous_slide: Diapositive précédente
+          slide_details: Détails de la diapositive
+        settings:
+          autoplay: Lancement de lecture automatique
+          upload_size: Pramètres de téléchargement (MB)
+      tabs:
+        image:
+          settings:
+            accessibility_label: Étiquette d'accessibilité
+            content: Texte
+            cta: Bouton principal
+            image: Image
+            secondary_cta: Bouton secondaire
+            secondary_url: Lien du bouton secondaire
+            title: Titre
+            url: Lien
+        video_text:
+          main:
+            no_video_support: Votre navigateur n'est pas compatible avec la balise vidéo.
+          settings:
+            accessibility_label: Étiquette d'accessibilité
+            autoplay: Lancement de lecture automatique
+            content: Contenu
+            controls: Contrôles d'affichage
+            cta: Bouton principal
+            loop: En boucle
+            muted: En sourdine
+            playsinline: Ne pas afficher les vidéos en plein écran
+            secondary_cta: Bouton secondaire
+            secondary_url: Lien du bouton secondaire
+            skip_when_finished: Passer à la prochaine diapositive lorsque la vidéo est terminée
+            title: Titre
+            url: Lien
+            video: Vidéo
+            video_options: Configurations vidéo

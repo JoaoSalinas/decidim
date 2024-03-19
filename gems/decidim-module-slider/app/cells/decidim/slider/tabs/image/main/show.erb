@@ -1,0 +1,21 @@
+<div class="decidim-slider-item hidden duration-700 ease-in-out flex" id="decidim-slider-item-<%= index %>" data-carousel-item>
+
+  <img src="<%= image_url %>" class="absolute block w-full h-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="<%= accessibility_label %>">
+
+  <div class="content relative z-[1000] flex flex-1 flex-col items-center justify-center pl-4 pb-4">
+    <h2 class="hero__title"><%= title %></h2>
+    <p class="hidden text-white md:block md:my-8 md:max-w-3xl"><%= content %></p>    
+    
+    <div class="flex flex-col gap-2 mt-7 md:flex-row md:gap-4">
+      <% if valid_link? %>
+        <%= link_to cta, url, class: "button button__lg md:button__xl button__secondary", target: "blank" %>
+      <% end %>
+
+      <% if secondary_link? %>
+        <%= link_to secondary_cta, secondary_url, class: "button button__lg md:button__xl button__primary", target: "blank" %>
+      <% end %>
+    </div>
+
+  </div>
+
+</div>
