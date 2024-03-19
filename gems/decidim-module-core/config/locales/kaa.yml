@@ -1,0 +1,10 @@
+---
+kaa:
+  devise:
+    invitations:
+      edit:
+        submit_button: Saqlaw
+  editor:
+    inputDialog:
+      buttons:
+        save: Saqlaw

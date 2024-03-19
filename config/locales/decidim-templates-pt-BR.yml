@@ -1,0 +1,112 @@
+pt:
+  activemodel:
+    attributes:
+      questionnaire:
+        title: Título
+      template:
+        description: Descrição
+        name: Nome
+  decidim:
+    admin:
+      menu:
+        manage: Gerenciar
+        templates: Modelos
+      templates:
+        actions:
+            new_template: Novo modelo
+        apply:
+          error: Ocorreu um erro ao aplicar este modelo.
+          success: Modelo aplicado com sucesso.
+        copy:
+          error: Ocorreu um erro ao copiar este modelo.
+          success: Modelo copiado com sucesso.
+        create:
+          error: Ocorreu um erro ao criar este modelo.
+          success: Modelo criado com sucesso.
+        destroy:
+          success: Modelo deletado com sucesso.
+        empty: Ainda não existem modelos.
+        missing_resource: "(Recurso faltando)"
+        update:
+          error: Ocorreu um erro ao atualizar o projeto.
+          success: Modelo atualizado com sucesso.
+      titles:
+        template_types:
+          questionnaires: Modelos de questionário
+        templates: Modelos
+    models:
+      questionnaire_template:
+        fields:
+          questions: Número de Questões
+          title: Nome do questionário
+      template:
+        fields:
+          created_at: Criado em
+        name: Modelo
+    templates:
+      admin:
+        block_user_templates:
+          edit:
+            title: Editar bloco modelo de mensagem de usuário
+          form:
+            save: Salvar
+          index:
+            confirm_delete: Tem certeza que desej deletar o modelo?
+            title: Bloco de mensagem de usuário
+          new:
+            title: Novo modelo debloco de mensagem de usuário
+          template_chooser:
+            select_template: Selecione uma resposta modelo
+        proposal_answer_templates:
+          edit:
+            title: Editar modelo de proposta de resposta
+          form:
+            component_constraint_help: Note que apenas espaços participativos que contenham o componente "Propostas"serão listados.
+            hint1_html: "<strong>%{organization}</strong> será substituido pelo nome da organização"
+            hint2_html: "<strong>%{name}</strong> será substituido pelo nome do autor"
+            hint3_html: "<strong>%{admin}</strong> será substituido pelo nome do administrador (que tenha respondido a proposta)"
+            hint_html: "<strong>Dica:</strong> Você pode usar essas variáveis em qualquer lugar quando um modelo de resposta será substituido quando usando um modelo"
+            save: Salvar
+          index:
+            component_constraint: Adicionar restrição
+            confirm_delete: Tem certeza que deseja excluir o modelo?
+            global_scope: Global (Disponível à todos)
+            internal_state: Estado interno
+            title: Respostas de proposta
+          new:
+            title: Novo modelo de resposta de proposta
+          template_chooser:
+            select_template: Selecione um modelo de resposta
+        questionnaire_templates:
+          choose:
+            create_from_template: Criar a partir de modelo
+            description: Você está prestes a criar um novo questionário. Você pode escolher um modelo predefinido e modificá-lo depois.
+            label: Selecionar modelo
+            placeholder: Selecionar modelo
+            skip_template: Ignorar
+          edit:
+            edit: Editar
+            empty: Não há perguntas ainda.
+            questionnaire: Questionário
+            title: Editar modelo de questionário
+          form:
+            title: Modelo de questionário %{questionnaire_for}
+          index:
+            confirm_delete: Tem certeza de que deseja excluir este modelo?
+            title: Modelos de questionário
+          new:
+            title: Novo modelo de questionário
+          preview:
+            current_step: Passo %{step}
+            of_total_steps: de %{total_steps}
+            tos_agreement: Ao participar você aceita os Termos de Serviço
+      admin_log:
+        template:
+          create: "O %{user_name} criou o modelo de questionário %{resource_name}"
+          delete: "%{user_name} excluiu o modelo de questionário %{resource_name}"
+          duplicate: "%{user_name} duplicou o modelo de questionário %{resource_name}"
+          update: "%{user_name} atualizou o modelo de questionário %{resource_name}"
+      template_types:
+        block_user: Mensagem de bloqueio de usuário
+        proposal_answer_templates: Resposta de proposta
+        questionnaires: Questionários

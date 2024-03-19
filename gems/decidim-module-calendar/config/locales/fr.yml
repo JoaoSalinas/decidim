@@ -1,0 +1,44 @@
+fr:
+  decidim:
+    calendar:
+      admin:
+        actions:
+          new_external_event: Nouvel événement externe
+        external_events:
+          index:
+            title: Évènements externes
+            no_records_html: <p>Aucun événement externe créé.</p> <p>Commencez par ajouter un événement externe du bouton "<a href="%{new_set_link}">%{button_name}</a>.</p>
+          create:
+            invalid: Évènement externe invalide
+            success: Événement externe créé avec succès
+          destroy:
+            success: Événement externe supprimé avec succès
+          edit:
+            save: Enregistrer l'événement externe
+          form:
+            title: Événement externe
+          new:
+            title: Nouvel événement externe
+            create: Créer un événement externe
+          update:
+            invalid: Erreur lors de la mise à jour de l'événement externe
+            success: Événement externe mis à jour avec succès
+        models:
+          external_events:
+            fields:
+              title: Titre
+              start_at: Commence à
+              end_at: Prend fin à
+              url: URL
+      index:
+        title: Calendrier global
+        filters:
+          consultation: Consultations
+          debate: Débats
+          external_event: External Events
+          meeting: Réunions
+          participatory_step: Concertation
+      menu:
+        calendar: Calendrier
+        gantt: Graphe de Gantt
+        ical: Télécharger iCAL

@@ -1,0 +1,9 @@
+DATABASE_URL: postgres://decidim_app:kPtD4QvZyyBIv@localhost/decidim_prod
+
+SECRET_KEY_BASE: 180f42dc227def9464a4d225333ab43fcace4d28b71cfd21ed9ad8ab6528050918b0565e7a84e8e5ffaa2bcf746ee9ed9d9313a604367592cd13293affce4f76
+
+
+SMTP_USERNAME: noreply.decidim@contagem.mg.gov.br
+SMTP_PASSWORD: Dwj02ex3V0LS
+SMTP_ADDRESS: smtp.office365.com
+SMTP_DOMAIN: contagem.mg.gov.br
